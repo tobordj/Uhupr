@@ -247,7 +247,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Binders\CartModelBinder.cs" />
+    <Compile Include="Content\Binders\CartModelBinder.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\ControlsystemController.cs" />
@@ -263,7 +263,7 @@
     <Compile Include="Infrastructure\NinjectControllerFactory.cs" />
     <Compile Include="Infrastructure\RangeExceptionAttribute.cs" />
     <Compile Include="Models\CartIndexViewModel.cs" />
-    <Compile Include="Binders\DecimalModelBinder.cs" />
+    <Compile Include="Content\Binders\DecimalModelBinder.cs" />
     <Compile Include="Models\LoginViewModel.cs" />
     <Compile Include="Models\ProductsListViewModel.cs" />
     <Compile Include="Models\PagingInfo.cs" />
@@ -304,6 +304,16 @@
     <Content Include="Content\boot\opa-icons.css" />
     <Content Include="Content\boot\uniform.default.css" />
     <Content Include="Content\boot\uploadify.css" />
+    <Content Include="Content\catalog\Chembyo-Baking-Gum.jpg" />
+    <Content Include="Content\catalog\Chembyo-Cleaner-PP.jpg" />
+    <Content Include="Content\catalog\Chembyo-CTP-Dev-UNI-Plates.jpg" />
+    <Content Include="Content\catalog\Chembyo-Film-Dev.jpg" />
+    <Content Include="Content\catalog\Chembyo-Film-Fix.jpg" />
+    <Content Include="Content\catalog\Chembyo-Plate-Gum.jpg" />
+    <Content Include="Content\catalog\Chembyo-PlateDev-1-9.jpg" />
+    <Content Include="Content\catalog\Chembyo-UV-CTP-Dev-Replenisher.jpg" />
+    <Content Include="Content\catalog\Chembyo-UV-CTP-Dev.jpg" />
+    <Content Include="Content\catalog\no_image.jpg" />
     <Content Include="Content\css\bootstrap-editable.css" />
     <Content Include="Content\css\bootstrap-responsive.css" />
     <Content Include="Content\css\bootstrap.min.css" />
